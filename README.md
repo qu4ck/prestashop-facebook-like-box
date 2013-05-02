@@ -1,4 +1,4 @@
-prestashop-facebook-like-box
+facebook like box
 ============================
 
-Facebook like box for prestashop module
+Facebook like box for Prestashop module [http://www.iso.web.id]
