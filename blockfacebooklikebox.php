@@ -1,6 +1,6 @@
 <?php
 /*
- * Author  : EDP Development Team 
+ * Author  : Airlangga bayu seto
  * Version : 1.0
  */
 
