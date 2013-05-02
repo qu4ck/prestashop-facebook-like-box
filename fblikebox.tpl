@@ -1,0 +1,3 @@
+{if $fburl != ""}
+    <div class="fb-like-box" data-href="{$fburl}" {if $fbwidth !=""}data-width="{$fbwidth}"{/if} {if $fbheight !=""}data-height="{$fbheight}"{/if} data-show-faces="{if $showface =="1"}true{else}false{/if}" data-stream="{if $showstream =="1"}true{else}false{/if}" {if $fbborder !=""}data-border-color="{$fbborder}"{/if} data-header="{if $showheader =="1"}true{else}false{/if}"></div>
+ {/if}
